@@ -65,9 +65,39 @@ Se configuró y vinculó una GPO destinada a establecer un fondo de pantalla cor
 - Funcionamiento y alcance de las políticas de grupo.
 - Importancia de verificar los resultados y documentar los errores.
 
-## Evidencias
+## Evidencias del laboratorio
 
-Se incorporarán capturas seleccionadas del informe académico, correspondientes a la instalación del servidor, AD DS, DNS, unión al dominio, usuarios y GPO.
+### 1. Preparación de Windows Server 2022
+![Windows Server 2022](evidencias/01-windows-server-2022.png)
+
+### 2. Instalación de Active Directory Domain Services
+![Instalación de AD DS](evidencias/02-instalacion-ad-ds.png)
+
+### 3. Configuración del controlador de dominio
+![Controlador de dominio](evidencias/03-controlador-dominio.png)
+
+### 4. Configuración de DNS
+![Configuración DNS](evidencias/04-configuracion-dns.png)
+
+### 5. Resolución de nombres del dominio
+![Resolución del dominio](evidencias/05-resolucion-dominio.png)
+
+### 6. Integración de Windows 11 al dominio
+![Windows 11 unido al dominio](evidencias/06-windows-11-dominio.png)
+
+### 7. Administración de usuarios y unidades organizativas
+![Usuarios y OU](evidencias/07-usuarios-ou.png)
+
+### 8. Vinculación de la política de grupo
+![GPO vinculada](evidencias/08-gpo-vinculada.png)
+
+### 9. Configuración de la GPO
+![Configuración de GPO](evidencias/09-configuracion-gpo.png)
+
+### 10. Resultado de la prueba del fondo corporativo
+![Resultado de la prueba GPO](evidencias/10-resultado-fondo.png)
+
+**Observación:** El informe académico registró que el fondo corporativo no se visualizó correctamente en el cliente Windows 11. Esta evidencia documenta la prueba realizada, no una aplicación exitosa de la política.
 
 ## Alcance y autoría
 
